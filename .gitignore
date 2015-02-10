@@ -2,3 +2,6 @@
 /.sass-cache/*
 *.DS_Store
 /stylesheets/*
+/node_modules/*
+/css/*
+/js/*
