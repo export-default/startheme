@@ -3,5 +3,6 @@
 *.DS_Store
 /stylesheets/*
 /node_modules/*
-/css/*
-/js/*
+/assets/*
+/.idea/*
+/build/*
